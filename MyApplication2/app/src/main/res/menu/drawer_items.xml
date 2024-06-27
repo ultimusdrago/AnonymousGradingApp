@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:id="@+id/group1">
+
+    <item
+        android:icon="@drawable/baseline_class_24"
+        android:id="@+id/viewClasses"
+        android:title="View Courses"/>
+</group>
+    <group android:id="@+id/group2">
+    <item
+        android:icon="@drawable/round_add_24"
+        android:id="@+id/addClass"
+        android:title="Add new course"/>
+    </group>
+    <group android:id="@+id/group3">
+    <item
+        android:icon="@drawable/baseline_content_paste_24"
+        android:id="@+id/addExam"
+        android:title="Add new exam"/>
+    </group>
+    <group android:id="@+id/group4">
+        <item
+            android:icon="@drawable/round_logout_24"
+            android:id="@+id/nameMaps"
+            android:title="Barcode-Name maps"/>
+    </group>
+
+    <group android:id="@+id/group5">
+        <item
+            android:icon="@drawable/round_logout_24"
+            android:id="@+id/assignGrades"
+            android:title="Assign Grades"/>
+    </group>
+
+    <group android:id="@+id/group6">
+    <item
+        android:icon="@drawable/round_logout_24"
+        android:id="@+id/logout"
+        android:title="Logout"/>
+    </group>
+
+</menu>

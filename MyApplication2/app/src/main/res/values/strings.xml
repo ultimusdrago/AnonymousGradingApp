@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="select">Select Items</string>
+    <string name="content_desc_applogo">appLogo</string>
+    <string name="welcome">Welcome</string>
+    <string name="backbutton">backbutton</string>
+</resources>
